@@ -1,0 +1,910 @@
+{
+  "status": "complete",
+  "scope": "All motor solids against cosmetic skins, plus cosmetic/cosmetic overlaps, at current pose only",
+  "inputs": [
+    {
+      "body": "J1 | 17HS16-2004S1 - drawing reconstruction | stator casing",
+      "path": "01 | Low base - concealed J1 drive:1+J1 | 17HS16-2004S1 - drawing reconstruction:1",
+      "motor": true,
+      "servo": false,
+      "box_mm": [
+        [
+          -79.14999999999999,
+          -21.15,
+          17.999999999999993
+        ],
+        [
+          -36.85000000000001,
+          21.15,
+          46.0
+        ]
+      ]
+    },
+    {
+      "body": "J1 | 17HS16-2004S1 - drawing reconstruction | rear end bell",
+      "path": "01 | Low base - concealed J1 drive:1+J1 | 17HS16-2004S1 - drawing reconstruction:1",
+      "motor": true,
+      "servo": false,
+      "box_mm": [
+        [
+          -79.14999999999999,
+          -21.15,
+          10.999999999999996
+        ],
+        [
+          -36.85000000000001,
+          21.15,
+          18.0
+        ]
+      ]
+    },
+    {
+      "body": "J1 | 17HS16-2004S1 - drawing reconstruction | front flange",
+      "path": "01 | Low base - concealed J1 drive:1+J1 | 17HS16-2004S1 - drawing reconstruction:1",
+      "motor": true,
+      "servo": false,
+      "box_mm": [
+        [
+          -79.14999999999999,
+          -21.15,
+          46.0
+        ],
+        [
+          -36.85000000000001,
+          21.15,
+          51.0
+        ]
+      ]
+    },
+    {
+      "body": "Pilot boss",
+      "path": "01 | Low base - concealed J1 drive:1+J1 | 17HS16-2004S1 - drawing reconstruction:1",
+      "motor": true,
+      "servo": false,
+      "box_mm": [
+        [
+          -69.0,
+          -11.0,
+          51.0
+        ],
+        [
+          -46.99999999999999,
+          11.0,
+          53.0
+        ]
+      ]
+    },
+    {
+      "body": "Output shaft",
+      "path": "01 | Low base - concealed J1 drive:1+J1 | 17HS16-2004S1 - drawing reconstruction:1",
+      "motor": true,
+      "servo": false,
+      "box_mm": [
+        [
+          -60.5,
+          -2.5,
+          53.0
+        ],
+        [
+          -56.0,
+          2.5,
+          76.0
+        ]
+      ]
+    },
+    {
+      "body": "Motor cable connector",
+      "path": "01 | Low base - concealed J1 drive:1+J1 | 17HS16-2004S1 - drawing reconstruction:1",
+      "motor": true,
+      "servo": false,
+      "box_mm": [
+        [
+          -63.99999999999999,
+          -24.65,
+          11.999999999999993
+        ],
+        [
+          -52.0,
+          -19.65,
+          19.999999999999993
+        ]
+      ]
+    },
+    {
+      "body": "White mounting plinth",
+      "path": "01 | Low base - concealed J1 drive:1",
+      "motor": false,
+      "servo": false,
+      "box_mm": [
+        [
+          -118.29351646457646,
+          -82.25158554106554,
+          0.0
+        ],
+        [
+          78.29351646457646,
+          82.25158554106554,
+          8.0
+        ]
+      ]
+    },
+    {
+      "body": "Green Marble removable base skin",
+      "path": "01 | Low base - concealed J1 drive:1",
+      "motor": false,
+      "servo": false,
+      "box_mm": [
+        [
+          -119.12253753721116,
+          -83.12253753721116,
+          7.999999999999999
+        ],
+        [
+          79.12253753721116,
+          83.12253753721112,
+          80.0
+        ]
+      ]
+    },
+    {
+      "body": "White upper base deck",
+      "path": "01 | Low base - concealed J1 drive:1",
+      "motor": false,
+      "servo": false,
+      "box_mm": [
+        [
+          -109.00000000000004,
+          -73.0,
+          79.0
+        ],
+        [
+          69.0,
+          73.0,
+          85.0
+        ]
+      ]
+    },
+    {
+      "body": "J2 | 23HS30-2804S - drawing reconstruction | stator casing",
+      "path": "02 | Torso - inboard NEMA23 and J2 reducer:1+J2 | 23HS30-2804S - drawing reconstruction:1",
+      "motor": true,
+      "servo": false,
+      "box_mm": [
+        [
+          -63.50000000000001,
+          -28.0,
+          105.50000000000003
+        ],
+        [
+          -6.5000000000000036,
+          36.5,
+          162.50000000000003
+        ]
+      ]
+    },
+    {
+      "body": "J2 | 23HS30-2804S - drawing reconstruction | rear end bell",
+      "path": "02 | Torso - inboard NEMA23 and J2 reducer:1+J2 | 23HS30-2804S - drawing reconstruction:1",
+      "motor": true,
+      "servo": false,
+      "box_mm": [
+        [
+          -63.50000000000001,
+          36.5,
+          105.50000000000003
+        ],
+        [
+          -6.5000000000000036,
+          43.50000000000001,
+          162.50000000000003
+        ]
+      ]
+    },
+    {
+      "body": "J2 | 23HS30-2804S - drawing reconstruction | front flange",
+      "path": "02 | Torso - inboard NEMA23 and J2 reducer:1+J2 | 23HS30-2804S - drawing reconstruction:1",
+      "motor": true,
+      "servo": false,
+      "box_mm": [
+        [
+          -63.50000000000001,
+          -33.0,
+          105.50000000000003
+        ],
+        [
+          -6.5000000000000036,
+          -28.0,
+          162.50000000000003
+        ]
+      ]
+    },
+    {
+      "body": "Pilot boss",
+      "path": "02 | Torso - inboard NEMA23 and J2 reducer:1+J2 | 23HS30-2804S - drawing reconstruction:1",
+      "motor": true,
+      "servo": false,
+      "box_mm": [
+        [
+          -54.05000000000001,
+          -35.0,
+          114.95000000000002
+        ],
+        [
+          -15.950000000000003,
+          -33.0,
+          153.05000000000004
+        ]
+      ]
+    },
+    {
+      "body": "Output shaft",
+      "path": "02 | Torso - inboard NEMA23 and J2 reducer:1+J2 | 23HS30-2804S - drawing reconstruction:1",
+      "motor": true,
+      "servo": false,
+      "box_mm": [
+        [
+          -38.175000000000004,
+          -56.0,
+          130.82500000000002
+        ],
+        [
+          -31.825000000000006,
+          -35.0,
+          136.675
+        ]
+      ]
+    },
+    {
+      "body": "Motor cable connector",
+      "path": "02 | Torso - inboard NEMA23 and J2 reducer:1+J2 | 23HS30-2804S - drawing reconstruction:1",
+      "motor": true,
+      "servo": false,
+      "box_mm": [
+        [
+          -8.000000000000004,
+          34.500000000000014,
+          128.00000000000003
+        ],
+        [
+          -3.0000000000000027,
+          42.50000000000001,
+          140.00000000000003
+        ]
+      ]
+    },
+    {
+      "body": "Green Marble continuous torso skin",
+      "path": "02 | Torso - inboard NEMA23 and J2 reducer:1",
+      "motor": false,
+      "servo": false,
+      "box_mm": [
+        [
+          -99.76813729978615,
+          -62.286652861329586,
+          85.5
+        ],
+        [
+          51.57561039737105,
+          62.2866528613296,
+          240.15088830869564
+        ]
+      ]
+    },
+    {
+      "body": "Green Marble continuous torso skin (1)",
+      "path": "02 | Torso - inboard NEMA23 and J2 reducer:1",
+      "motor": false,
+      "servo": false,
+      "box_mm": [
+        [
+          -33.73793427553134,
+          -18.909110859473962,
+          235.56958163564445
+        ],
+        [
+          -22.58593217399977,
+          18.909110859472552,
+          242.8388264992995
+        ]
+      ]
+    },
+    {
+      "body": "Green Marble continuous torso skin (2)",
+      "path": "02 | Torso - inboard NEMA23 and J2 reducer:1",
+      "motor": false,
+      "servo": false,
+      "box_mm": [
+        [
+          22.585932173999655,
+          -18.922078456228903,
+          234.2345602677392
+        ],
+        [
+          35.243700162335685,
+          18.922078456230157,
+          242.83882649929956
+        ]
+      ]
+    },
+    {
+      "body": "White rear torso service ribbon",
+      "path": "02 | Torso - inboard NEMA23 and J2 reducer:1",
+      "motor": false,
+      "servo": false,
+      "box_mm": [
+        [
+          -40.10321540193162,
+          46.0,
+          93.0
+        ],
+        [
+          11.186854602403855,
+          64.48905846208496,
+          234.00000000000003
+        ]
+      ]
+    },
+    {
+      "body": "Shoulder front cap | white flush cover",
+      "path": "02 | Torso - inboard NEMA23 and J2 reducer:1",
+      "motor": false,
+      "servo": false,
+      "box_mm": [
+        [
+          -52.0,
+          -66.20000000000002,
+          144.00000000000003
+        ],
+        [
+          52.0,
+          -64.2,
+          248.0
+        ]
+      ]
+    },
+    {
+      "body": "Shoulder rear cap | white flush cover",
+      "path": "02 | Torso - inboard NEMA23 and J2 reducer:1",
+      "motor": false,
+      "servo": false,
+      "box_mm": [
+        [
+          -52.0,
+          63.8,
+          144.00000000000003
+        ],
+        [
+          52.0,
+          65.8,
+          248.0
+        ]
+      ]
+    },
+    {
+      "body": "Inboard NEMA17 | 17HS16-2004S1 drawing reconstruction | stator casing",
+      "path": "03 | Upper link - inboard elbow drive:1+Inboard NEMA17 | 17HS16-2004S1 drawing reconstruction:1",
+      "motor": true,
+      "servo": false,
+      "box_mm": [
+        [
+          2.7443870040960983,
+          -8.000000000000005,
+          240.06673755122313
+        ],
+        [
+          58.209669040230594,
+          19.999999999999996,
+          295.53201958735764
+        ]
+      ]
+    },
+    {
+      "body": "Inboard NEMA17 | 17HS16-2004S1 drawing reconstruction | rear end bell",
+      "path": "03 | Upper link - inboard elbow drive:1+Inboard NEMA17 | 17HS16-2004S1 drawing reconstruction:1",
+      "motor": true,
+      "servo": false,
+      "box_mm": [
+        [
+          2.7443870040960983,
+          19.999999999999996,
+          240.06673755122313
+        ],
+        [
+          58.209669040230594,
+          27.0,
+          295.53201958735764
+        ]
+      ]
+    },
+    {
+      "body": "Inboard NEMA17 | 17HS16-2004S1 drawing reconstruction | front flange",
+      "path": "03 | Upper link - inboard elbow drive:1+Inboard NEMA17 | 17HS16-2004S1 drawing reconstruction:1",
+      "motor": true,
+      "servo": false,
+      "box_mm": [
+        [
+          2.7443870040960983,
+          -13.0,
+          240.06673755122313
+        ],
+        [
+          58.209669040230594,
+          -8.0,
+          295.53201958735764
+        ]
+      ]
+    },
+    {
+      "body": "Pilot boss",
+      "path": "03 | Upper link - inboard elbow drive:1+Inboard NEMA17 | 17HS16-2004S1 drawing reconstruction:1",
+      "motor": true,
+      "servo": false,
+      "box_mm": [
+        [
+          16.053432220804492,
+          -15.0,
+          253.37578276793153
+        ],
+        [
+          44.9006238235222,
+          -13.0,
+          282.22297437064924
+        ]
+      ]
+    },
+    {
+      "body": "Output shaft",
+      "path": "03 | Upper link - inboard elbow drive:1+Inboard NEMA17 | 17HS16-2004S1 drawing reconstruction:1",
+      "motor": true,
+      "servo": false,
+      "box_mm": [
+        [
+          27.198938067309065,
+          -38.0,
+          264.52128861443606
+        ],
+        [
+          33.559752412773,
+          -15.0,
+          270.61721609741846
+        ]
+      ]
+    },
+    {
+      "body": "Motor cable connector",
+      "path": "03 | Upper link - inboard elbow drive:1+Inboard NEMA17 | 17HS16-2004S1 drawing reconstruction:1",
+      "motor": true,
+      "servo": false,
+      "box_mm": [
+        [
+          46.22056162156816,
+          18.000000000000004,
+          252.64482713131514
+        ],
+        [
+          55.51185943070165,
+          26.000000000000007,
+          265.6445410151908
+        ]
+      ]
+    },
+    {
+      "body": "Green Marble tapered hollow link",
+      "path": "03 | Upper link - inboard elbow drive:1",
+      "motor": false,
+      "servo": false,
+      "box_mm": [
+        [
+          -48.37618612042837,
+          -56.0325991238888,
+          152.903366070811
+        ],
+        [
+          109.18471187252808,
+          56.11435392301304,
+          382.3525431845278
+        ]
+      ]
+    },
+    {
+      "body": "White integrated service ribbon",
+      "path": "03 | Upper link - inboard elbow drive:1",
+      "motor": false,
+      "servo": false,
+      "box_mm": [
+        [
+          -17.519783374448586,
+          -56.400000000000006,
+          174.97960524110636
+        ],
+        [
+          79.6460328042431,
+          -36.20000000000001,
+          363.3806664578317
+        ]
+      ]
+    },
+    {
+      "body": "Distal flush cap | white flush cover",
+      "path": "03 | Upper link - inboard elbow drive:1",
+      "motor": false,
+      "servo": false,
+      "box_mm": [
+        [
+          13.33243290500333,
+          -58.400000000000006,
+          296.74509752392584
+        ],
+        [
+          115.608839496457,
+          -56.400000000000006,
+          399.0215041153795
+        ]
+      ]
+    },
+    {
+      "body": "Inboard NEMA17 | 17HS16-2004S1 drawing reconstruction | stator casing",
+      "path": "04 | Forearm - inboard wrist drive:1+Inboard NEMA17 | 17HS16-2004S1 drawing reconstruction (1):1",
+      "motor": true,
+      "servo": false,
+      "box_mm": [
+        [
+          101.54086804183282,
+          -8.000000000000005,
+          300.5286074458586
+        ],
+        [
+          154.8419775431781,
+          19.999999999999996,
+          353.8297169472038
+        ]
+      ]
+    },
+    {
+      "body": "Inboard NEMA17 | 17HS16-2004S1 drawing reconstruction | rear end bell",
+      "path": "04 | Forearm - inboard wrist drive:1+Inboard NEMA17 | 17HS16-2004S1 drawing reconstruction (1):1",
+      "motor": true,
+      "servo": false,
+      "box_mm": [
+        [
+          101.54086804183282,
+          19.999999999999996,
+          300.5286074458586
+        ],
+        [
+          154.8419775431781,
+          27.0,
+          353.8297169472038
+        ]
+      ]
+    },
+    {
+      "body": "Inboard NEMA17 | 17HS16-2004S1 drawing reconstruction | front flange",
+      "path": "04 | Forearm - inboard wrist drive:1+Inboard NEMA17 | 17HS16-2004S1 drawing reconstruction (1):1",
+      "motor": true,
+      "servo": false,
+      "box_mm": [
+        [
+          101.54086804183282,
+          -13.0,
+          300.5286074458586
+        ],
+        [
+          154.8419775431781,
+          -8.0,
+          353.8297169472038
+        ]
+      ]
+    },
+    {
+      "body": "Pilot boss",
+      "path": "04 | Forearm - inboard wrist drive:1+Inboard NEMA17 | 17HS16-2004S1 drawing reconstruction (1):1",
+      "motor": true,
+      "servo": false,
+      "box_mm": [
+        [
+          114.33061417513434,
+          -15.0,
+          313.3183535791601
+        ],
+        [
+          142.05223140987658,
+          -13.0,
+          341.0399708139023
+        ]
+      ]
+    },
+    {
+      "body": "Output shaft",
+      "path": "04 | Forearm - inboard wrist drive:1+Inboard NEMA17 | 17HS16-2004S1 drawing reconstruction (1):1",
+      "motor": true,
+      "servo": false,
+      "box_mm": [
+        [
+          125.04123901583021,
+          -38.0,
+          324.1834869170434
+        ],
+        [
+          130.86607831103316,
+          -15.0,
+          330.3293459732065
+        ]
+      ]
+    },
+    {
+      "body": "Motor cable connector",
+      "path": "04 | Forearm - inboard wrist drive:1+Inboard NEMA17 | 17HS16-2004S1 drawing reconstruction (1):1",
+      "motor": true,
+      "servo": false,
+      "box_mm": [
+        [
+          114.86781478339209,
+          18.000000000000004,
+          301.881517103606
+        ],
+        [
+          127.82557795080868,
+          26.000000000000007,
+          310.3450036175811
+        ]
+      ]
+    },
+    {
+      "body": "Green Marble tapered hollow link",
+      "path": "04 | Forearm - inboard wrist drive:1",
+      "motor": false,
+      "servo": false,
+      "box_mm": [
+        [
+          24.94026496487974,
+          -46.98593939140996,
+          260.9830085888203
+        ],
+        [
+          237.3168901747698,
+          46.98593939140991,
+          391.46663692817083
+        ]
+      ]
+    },
+    {
+      "body": "White integrated service ribbon",
+      "path": "04 | Forearm - inboard wrist drive:1",
+      "motor": false,
+      "servo": false,
+      "box_mm": [
+        [
+          43.924105072586954,
+          -48.15653670653152,
+          288.8188297998879
+        ],
+        [
+          217.21402309389973,
+          -36.20000000000001,
+          363.99440962129984
+        ]
+      ]
+    },
+    {
+      "body": "Distal flush cap | white flush cover",
+      "path": "04 | Forearm - inboard wrist drive:1",
+      "motor": false,
+      "servo": false,
+      "box_mm": [
+        [
+          164.57162574342442,
+          -49.400000000000006,
+          265.2736313151823
+        ],
+        [
+          240.17603638363045,
+          -47.400000000000006,
+          340.87804195538837
+        ]
+      ]
+    },
+    {
+      "body": "Body1",
+      "path": "05 | Wrist - concealed ST3215 gripper:1+SUPPLIER STEP | Waveshare ST3215 assembly:1+SCS215 v5:1+ZK_122:1",
+      "motor": false,
+      "servo": true,
+      "box_mm": [
+        [
+          190.01212715580743,
+          -8.100000000000001,
+          249.46413272756433
+        ],
+        [
+          214.7355349712474,
+          5.800000000000001,
+          294.6875405430053
+        ]
+      ]
+    },
+    {
+      "body": "Body1",
+      "path": "05 | Wrist - concealed ST3215 gripper:1+SUPPLIER STEP | Waveshare ST3215 assembly:1+SCS215 v5:1+SG-ZIJI_15:1",
+      "motor": false,
+      "servo": true,
+      "box_mm": [
+        [
+          190.12383106352564,
+          -16.8,
+          249.57583663528536
+        ],
+        [
+          214.62383106352743,
+          -7.1,
+          294.5758366352853
+        ]
+      ]
+    },
+    {
+      "body": "Body1",
+      "path": "05 | Wrist - concealed ST3215 gripper:1+SUPPLIER STEP | Waveshare ST3215 assembly:1+SCS215 v5:1+XG-ZIJI_16:1",
+      "motor": false,
+      "servo": true,
+      "box_mm": [
+        [
+          190.0138310635274,
+          4.800000000000001,
+          249.4658366352856
+        ],
+        [
+          214.73383106352742,
+          18.900000000000002,
+          294.68583663528534
+        ]
+      ]
+    },
+    {
+      "body": "Body1",
+      "path": "05 | Wrist - concealed ST3215 gripper:1+SUPPLIER STEP | Waveshare ST3215 assembly:1+SCS215 v5:1+MOTOR-1723_3:1",
+      "motor": false,
+      "servo": true,
+      "box_mm": [
+        [
+          195.09883106352743,
+          -13.300000000000004,
+          250.55083663528535
+        ],
+        [
+          212.1488310635274,
+          17.200000000000003,
+          267.6008366352853
+        ]
+      ]
+    },
+    {
+      "body": "Body1",
+      "path": "05 | Wrist - concealed ST3215 gripper:1+SUPPLIER STEP | Waveshare ST3215 assembly:1+SCS215 v5:1+PCB-CHAZUO_92:1",
+      "motor": false,
+      "servo": true,
+      "box_mm": [
+        [
+          191.82383106352742,
+          4.0,
+          264.0758366352853
+        ],
+        [
+          212.92383106352742,
+          11.200000000000001,
+          292.87583663528534
+        ]
+      ]
+    },
+    {
+      "body": "Body1",
+      "path": "05 | Wrist - concealed ST3215 gripper:1+SUPPLIER STEP | Waveshare ST3215 assembly:1+SCS215 v5:1+GE_27:1",
+      "motor": false,
+      "servo": true,
+      "box_mm": [
+        [
+          193.5792014345144,
+          -17.400000000000002,
+          275.7759526025443
+        ],
+        [
+          211.1684606925404,
+          0.9000000000000008,
+          293.3757206680263
+        ]
+      ]
+    },
+    {
+      "body": "Body1",
+      "path": "05 | Wrist - concealed ST3215 gripper:1+SUPPLIER STEP | Waveshare ST3215 assembly:1+SCS215 v5:1+\u91d1\u5c5e\u8235\u76d8\uff08\u9a71\u52a8\uff09 v2:1",
+      "motor": false,
+      "servo": true,
+      "box_mm": [
+        [
+          192.7738310635274,
+          -18.900000000000002,
+          274.9758366352853
+        ],
+        [
+          211.97383106352743,
+          -14.399999999999999,
+          294.1758366352874
+        ]
+      ]
+    },
+    {
+      "body": "Body1",
+      "path": "05 | Wrist - concealed ST3215 gripper:1+SUPPLIER STEP | Waveshare ST3215 assembly:1+SCS215 v5:1+\u91d1\u5c5e\u8235\u76d8\uff08\u4ece\u52a8\uff09 v2:1",
+      "motor": false,
+      "servo": true,
+      "box_mm": [
+        [
+          192.77383106352542,
+          15.000000000000009,
+          274.9758366352853
+        ],
+        [
+          211.97383106352942,
+          18.350000000000147,
+          294.1758366352873
+        ]
+      ]
+    },
+    {
+      "body": "White wrist and servo palm",
+      "path": "05 | Wrist - concealed ST3215 gripper:1",
+      "motor": false,
+      "servo": false,
+      "box_mm": [
+        [
+          171.56081770078015,
+          -27.2690675742426,
+          239.07583663528533
+        ],
+        [
+          233.1868444262747,
+          28.331564129438075,
+          322.0758366352853
+        ]
+      ]
+    },
+    {
+      "body": "Green Marble gripper service cover",
+      "path": "05 | Wrist - concealed ST3215 gripper:1",
+      "motor": false,
+      "servo": false,
+      "box_mm": [
+        [
+          184.36829516162223,
+          -29.95276365296691,
+          249.07583663528533
+        ],
+        [
+          220.37936696543258,
+          -22.500000000000004,
+          303.0758366352853
+        ]
+      ]
+    },
+    {
+      "body": "White wrist and servo palm (1)",
+      "path": "05 | Wrist - concealed ST3215 gripper:1",
+      "motor": false,
+      "servo": false,
+      "box_mm": [
+        [
+          192.90980104887058,
+          -27.087127032198147,
+          249.33117920492435
+        ],
+        [
+          211.837861078211,
+          -25.56680290126377,
+          255.79374857362552
+        ]
+      ]
+    }
+  ],
+  "checked_bodies": 50,
+  "motor_vs_shell": [],
+  "servo_vs_shell": [],
+  "cosmetic_pairs": []
+}

@@ -1,0 +1,14 @@
+{
+  "GreenArm-02.f3d": {
+    "bytes": 13006315,
+    "sha256": "bc69481657e591430dc4ad64f15aaa7e44e3ccc5b5640e1f60dbb078ec26abe9"
+  },
+  "GreenArm-02.step": {
+    "bytes": 11938029,
+    "sha256": "31b5973d4cfdb52d71c2bfd4eefe29e6b70ac1c514f265767392b82d0d012681"
+  },
+  "Shoulder-cycloidal-11to1.step": {
+    "bytes": 655149,
+    "sha256": "fb189c07267b9fc9f12dc46297c2fb6fa360b5396e66e89435281a40ae9d2f54"
+  }
+}

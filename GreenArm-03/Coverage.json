@@ -1,0 +1,50 @@
+{
+  "scope": "Portable geometry, mechanism mathematics and GLB exporter, including imports. Excludes separately-passed integration, Fusion runtime, preview compiler and image renderer.",
+  "files": {
+    "spec_types.py": {
+      "executed": 82,
+      "executable": 84,
+      "line_coverage_percent": 97.6
+    },
+    "hardware_spec.py": {
+      "executed": 44,
+      "executable": 46,
+      "line_coverage_percent": 95.7
+    },
+    "reducer_spec.py": {
+      "executed": 34,
+      "executable": 36,
+      "line_coverage_percent": 94.4
+    },
+    "design_spec.py": {
+      "executed": 145,
+      "executable": 147,
+      "line_coverage_percent": 98.6
+    },
+    "mesh_geometry.py": {
+      "executed": 214,
+      "executable": 235,
+      "line_coverage_percent": 91.1
+    },
+    "export_glb.py": {
+      "executed": 71,
+      "executable": 79,
+      "line_coverage_percent": 89.9
+    },
+    "cycloid_math.py": {
+      "executed": 94,
+      "executable": 105,
+      "line_coverage_percent": 89.5
+    },
+    "periodic_spline.py": {
+      "executed": 44,
+      "executable": 52,
+      "line_coverage_percent": 84.6
+    },
+    "portable_core_total": {
+      "executed": 728,
+      "executable": 784,
+      "line_coverage_percent": 92.9
+    }
+  }
+}

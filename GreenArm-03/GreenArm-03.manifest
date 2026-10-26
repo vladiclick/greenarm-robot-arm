@@ -1,0 +1,9 @@
+{
+  "autodeskProduct":"Fusion360",
+  "type":"script",
+  "author":"GreenArm project",
+  "description":{"":"GreenArm03 angular MG996R development model; creates a new document"},
+  "version":"0.3.0",
+  "runOnStartup":false,
+  "supportedOS":"mac|windows"
+}

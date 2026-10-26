@@ -1,0 +1,31 @@
+{
+  "selected_variant": "TowerPro MG996R Robot servo180deg Rotation",
+  "official_url": "https://torqpro.com/product/mg996r-robot-servo-180x-rotation/",
+  "manufacturer_size_mm": [
+    40.7,
+    19.7,
+    42.9
+  ],
+  "mass_g": 55,
+  "voltage_V": [
+    4.8,
+    6.6
+  ],
+  "drawing_table_mm": {
+    "A": 42.7,
+    "B": 40.9,
+    "C": 37,
+    "D": 20,
+    "E": 54,
+    "F": 26.8
+  },
+  "exact_step_status": "notfound_no_substitution",
+  "mount_hole_pattern_status": "unverified_conflictingcommunity48_vs49.5mm",
+  "shaft_offset_status": "unverified",
+  "release_status": "drawingbasedreference_only_fitpending",
+  "sources": [
+    "https://towerpro.com.tw/product/mg996r/",
+    "https://agelectronica.lat/pdfs/textos/M/MG996R.PDF",
+    "https://www.handsontec.com/dataspecs/motor_fan/MG996R.pdf"
+  ]
+}

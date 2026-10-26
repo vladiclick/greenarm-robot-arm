@@ -1,0 +1,52 @@
+{
+  "portable_geometry": "436 closed positive-volume solids;177816 triangles",
+  "glb": [
+    {
+      "file": "GreenArm-03-internal.glb",
+      "meshes": 411,
+      "triangles": 167948,
+      "bytes": 19848940,
+      "binary_layout_indices_normals_units": "pass",
+      "texture": "embedded PNG, factor white to avoid duplicate tint"
+    },
+    {
+      "file": "GreenArm-03.glb",
+      "meshes": 436,
+      "triangles": 177816,
+      "bytes": 20937404,
+      "binary_layout_indices_normals_units": "pass",
+      "texture": "embedded PNG, factor white to avoid duplicate tint"
+    }
+  ],
+  "native_Fusion": {
+    "stage": "Native build complete",
+    "components": 12,
+    "joints": 4,
+    "timeline_issues": [],
+    "manufacturing_status": "Development only: whole-arm fit, motion, thermal, mechanism, purchased fit and budget validation pending",
+    "F3D_archive_integrity": "pass",
+    "STEP_header": "ISO-10303-21",
+    "UI": "GreenArm03 visibly open; model inspected via screenshot"
+  },
+  "manufacturing_release": false,
+  "budget_1000_RON_confirmed": false,
+  "tests": {
+    "passed": 36,
+    "failed": 0,
+    "includes": [
+      "closed solid integration",
+      "motor support regressions",
+      "cycloidal roller/output pin clearance mathematics",
+      "periodic spline closure",
+      "GLB orientation and binary references"
+    ],
+    "Fusion_runtime_tests": "Native generator executed;12components,4joints,0timelineissues; motion/interference not yet tested",
+    "note": "35 unique unit tests plus one whole-scene integration test; native Fusion unexecuted"
+  },
+  "coverage": {
+    "scope": "Portable geometry, mechanism mathematics and GLB exporter, including imports. Excludes separately-passed integration, Fusion runtime, preview compiler and image renderer.",
+    "executed": 728,
+    "executable": 784,
+    "line_coverage_percent": 92.9
+  }
+}

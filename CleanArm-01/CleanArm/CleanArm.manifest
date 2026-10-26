@@ -1,0 +1,9 @@
+{
+  "autodeskProduct": "Fusion360",
+  "type": "script",
+  "author": "CleanArm project",
+  "description": {"": "Create CleanArm 01 native CAD packaging concept"},
+  "version": "1.0.0",
+  "runOnStartup": false,
+  "supportedOS": "mac|windows"
+}
