@@ -1,6 +1,6 @@
 # greenarm-robot-arm
 
-Work in progress: a desktop robot arm with stepper motors and 3D-printable 11:1 cycloidal gearboxes, designed in Fusion 360 from a Python generator.
+Work in progress: a desktop robot arm with stepper motors and 3D-printable 11:1 cycloidal gearboxes, designed in Fusion 360 by me.
 
 ![GreenArm 03 in Fusion 360](GreenArm-03/GreenArm-03-Fusion.png)
 
