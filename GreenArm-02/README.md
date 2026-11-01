@@ -4,7 +4,7 @@
 
 **Stadiu: ansamblu CAD de dezvoltare, nu set final pentru fabricație.**
 
-Fișierul principal este [GreenArm-02.f3d](GreenArm-02.f3d). Păstrează componentele, operațiile native, aparențele și articulațiile din Fusion. [GreenArm-02.step](GreenArm-02.step) este exportul geometric pentru alte aplicații.
+Fișierul principal este `GreenArm-02.f3d`. Păstrează componentele, operațiile native, aparențele și articulațiile din Fusion. `GreenArm-02.step` este exportul geometric pentru alte aplicații.
 
 - [Vedere asamblată](GreenArm-02-assembled.png), [spate](GreenArm-02-rear.png), [interior](GreenArm-02-internal.png).
 - [Detaliu CAD al reductorului](Shoulder-cycloidal-cutaway.png), [STEP separat al reductorului](Shoulder-cycloidal-11to1.step).
